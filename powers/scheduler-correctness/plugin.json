@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scheduler-correctness",
+  "version": "1.0.0",
+  "description": "Review deterministic schedulers using conservation, capacity, deadline, and ordering properties.",
+  "author": {
+    "name": "Hemanth"
+  },
+  "keywords": [
+    "scheduler",
+    "scheduling",
+    "fast-check",
+    "property-based testing",
+    "correctness",
+    "determinism"
+  ]
+}
